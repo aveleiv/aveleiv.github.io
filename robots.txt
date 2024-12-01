@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aveleiv.github.io/sitemap.xml

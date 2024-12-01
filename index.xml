@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leiv Development Blog</title>
+    <title>Aveleiv</title>
     <link>https://aveleiv.github.io/</link>
-    <description>Recent content on Leiv Development Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://aveleiv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Aveleiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Leonid Ivakhnenko</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 03:41:32 +0900</lastBuildDate><atom:link href="https://aveleiv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

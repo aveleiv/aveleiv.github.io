@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jte on Aveleiv</title>
+    <link>https://aveleiv.github.io/tags/jte/</link>
+    <description>Recent content in Jte on Aveleiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Leonid Ivakhnenko</copyright>
+    <lastBuildDate>Fri, 11 Oct 2024 07:19:42 +0900</lastBuildDate><atom:link href="https://aveleiv.github.io/tags/jte/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jte Internationalization</title>
+      <link>https://aveleiv.github.io/posts/spring/jte-internationalization/</link>
+      <pubDate>Fri, 11 Oct 2024 07:19:42 +0900</pubDate>
+      
+      <guid>https://aveleiv.github.io/posts/spring/jte-internationalization/</guid>
+      <description>Internationalization with JTE and Spring Boot 3</description>
+      
+    </item>
+    
+  </channel>
+</rss>
